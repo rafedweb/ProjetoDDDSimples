@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entidades\Base\IEntity.cs" />
+    <Compile Include="Entidades\Clientes\Cliente.cs" />
+    <Compile Include="Entidades\Produtos\Produto.cs" />
     <Compile Include="Enums\Status.cs" />
     <Compile Include="Helpers\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
